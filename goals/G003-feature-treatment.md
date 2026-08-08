@@ -1,6 +1,6 @@
 # G003 — Feature Treatment and Story Architecture
 
-Status: Pending
+Status: Ready
 
 ## Objective
 

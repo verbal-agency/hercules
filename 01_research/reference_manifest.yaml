@@ -1,0 +1,62 @@
+manifest_version: 1
+project: hercules-the-weight
+retrieved: 2026-08-08
+policy:
+  default_status: research-only
+  approval_required_for_generation_input: true
+  notes: >-
+    Inclusion records provenance but does not approve a visual design. Public-domain
+    status applies to the cited museum image as labeled by the institution; recheck
+    the object page before production use and retain institutional attribution.
+references:
+  - reference_id: REF_0001
+    title: "Terracotta oinochoe (jug): Herakles fighting the Nemean lion"
+    source_url: https://www.metmuseum.org/art/collection/search/247235
+    institution_or_creator: >-
+      The Metropolitan Museum of Art; attributed to the Class of the
+      Red-Bodied Oinochoai III
+    object_number: 06.1021.66
+    date_or_period: early 5th century BCE, Greek Attic Archaic
+    retrieved: 2026-08-08
+    rights_status: public-domain
+    allowed_use: research-and-production-reference
+    supports:
+      - CHR_HERCULES
+      - CRE_NEMEAN_LION
+      - STY_GREEK_VASE_ICONOGRAPHY
+    notes: >-
+      Ancient evidence for the grounded wrestling composition and lion encounter;
+      not a mandate for black-figure surface treatment.
+  - reference_id: REF_0002
+    title: "Terracotta hydria (kalpis): infant Herakles strangling snakes"
+    source_url: https://www.metmuseum.org/art/collection/search/251790
+    institution_or_creator: >-
+      The Metropolitan Museum of Art; attributed to the Nausicaa Painter
+    object_number: 25.28
+    date_or_period: ca. 460-450 BCE, Greek Attic Classical
+    retrieved: 2026-08-08
+    rights_status: public-domain
+    allowed_use: research-and-production-reference
+    supports:
+      - CHR_HERCULES_INFANT
+      - CHR_ALCMENE
+      - CHR_AMPHITRYON
+      - GOD_ATHENA
+    notes: >-
+      Ancient grouping and iconographic evidence for Athena present at the infant
+      serpent episode; no final costume or puppet design is approved.
+  - reference_id: REF_0003
+    title: Fragmentary bronze statuette of Herakles with lion's skin
+    source_url: https://www.metmuseum.org/art/collection/search/252928
+    institution_or_creator: The Metropolitan Museum of Art; unknown Roman maker
+    object_number: 27.122.13
+    date_or_period: 1st-3rd century CE, Roman Imperial
+    retrieved: 2026-08-08
+    rights_status: public-domain
+    allowed_use: research-and-production-reference
+    supports:
+      - CHR_HERCULES
+      - PROP_NEMEAN_LIONSKIN
+    notes: >-
+      Later Roman reception evidence for the lion skin as an identifying attribute.
+      Must not silently define the film's Greek-period body type or costume.

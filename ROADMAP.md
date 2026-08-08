@@ -5,8 +5,8 @@ Goals are executed in order unless a documented dependency or user decision requ
 | Goal | Title | Depends on | Status | Primary outcome |
 |---|---|---|---|---|
 | G001 | Production foundation and cycle roadmap | — | Complete | Project charter, architecture, scenarios, roadmap, and cycle package |
-| G002 | Mythology canon and adaptation decisions | G001 | Ready | Traceable source corpus, variant matrix, and approved story boundaries |
-| G003 | Feature treatment and story architecture | G002 | Pending | Character arcs, sequence treatment, beat sheet, and scene inventory |
+| G002 | Mythology canon and adaptation decisions | G001 | Complete | Traceable source corpus, variant matrix, and approved story boundaries |
+| G003 | Feature treatment and story architecture | G002 | Ready | Character arcs, sequence treatment, beat sheet, and scene inventory |
 | G004 | Claymation visual language | G003 | Pending | Model-neutral style, material, optical, lighting, camera, grade, and tone rules |
 | G005 | Screenplay draft one | G003, G004 | Pending | Complete readable feature screenplay and synchronized scene index |
 | G006 | Canonical visual asset library | G004, G005 | Pending | Approved core designs, Hero Frames, location locks, Elements-ready derivatives, and continuity states |

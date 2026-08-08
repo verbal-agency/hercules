@@ -1,6 +1,6 @@
 # G002 — Mythology Canon and Adaptation Decisions
 
-Status: Ready
+Status: Complete
 
 ## Objective
 
@@ -42,13 +42,13 @@ PS-01, PS-06, PS-07.
 
 ## Acceptance criteria
 
-- [ ] Every planned major beat has at least one ancient source or is labeled original invention.
-- [ ] Conflicting placement of the madness is documented and one chronology is approved with rationale.
-- [ ] All twelve Labors have selected narrative versions and material rejected variants documented.
-- [ ] The roles of Megara, Iolaus, Eurystheus, Hera, Athena, Theseus, and the gods are explicitly decided.
-- [ ] The first feature’s ending and boundary with the Deianeira cycle are approved.
-- [ ] Every external visual reference has PS-06 provenance fields, including unknown rights where necessary.
-- [ ] No treatment scenes, final visual assets, or model prompts are introduced.
+- [x] Every planned major beat has at least one ancient source or is labeled original invention.
+- [x] Conflicting placement of the madness is documented and one chronology is approved with rationale.
+- [x] All twelve Labors have selected narrative versions and material rejected variants documented.
+- [x] The roles of Megara, Iolaus, Eurystheus, Hera, Athena, Theseus, and the gods are explicitly decided.
+- [x] The first feature’s ending and boundary with the Deianeira cycle are approved.
+- [x] Every external visual reference has PS-06 provenance fields, including unknown rights where necessary.
+- [x] No treatment scenes, final visual assets, or model prompts are introduced.
 
 ## Expected verification evidence
 
@@ -60,3 +60,27 @@ PS-01, PS-06, PS-07.
 
 - Ancient sources conflict and must not be flattened into a false canon.
 - A family-audience versus adult tone decision materially changes the madness sequence and must be resolved here.
+
+## Approved outcomes
+
+- Pseudo-Apollodorus's pre-Labor madness chronology governs; Euripides's post-Labor chronology remains documented and informs aftermath and friendship, not event order.
+- All twelve Labors remain canonical, with G003 authorized to classify their screen treatment by dramatic weight.
+- The film targets a family-accessible teen audience at an approximate PG-13 boundary, with non-graphic family violence and non-stigmatizing divine madness.
+- Cerberus's return completes compulsory service; choosing continued life completes the feature's emotional arc.
+- Deianeira, Nessus, Iole, the pyre, and apotheosis remain outside this feature.
+- Greek cultural naming surrounds the audience-facing name `Hercules`.
+
+## Verification evidence
+
+- `01_research/sources.md` maps every intended major beat to a cited ancient passage or an explicit original-invention label.
+- `01_research/variant_matrix.md` contains exactly twelve numbered Labor rows plus documented chronology and connected-episode alternatives.
+- `01_research/adaptation_decisions.md` records 23 approved decisions covering chronology, character functions, ending, tone, divine agency, humor, period, and invention policy.
+- `01_research/names_and_pronunciation.md` records the Greek/Roman naming boundary and working pronunciations.
+- `01_research/reference_manifest.yaml` parses successfully as YAML and contains all required PS-06 fields for three external visual references; each institution labels its image public domain.
+- Primary Theoi, Scaife, and Metropolitan Museum links were retrieved during research. Several Perseus catalog endpoints returned transient timeout/502 responses during bulk verification; stable work/passage identifiers are recorded so those access failures do not erase source traceability.
+- Mechanical checks confirmed 12 Labor rows, 23 decision entries, source IDs `SRC_A01` through `SRC_A12`, valid YAML, and no whitespace errors.
+- Manual scope review found no treatment, screenplay scene, final visual asset, generation prompt, or provider-dependent work.
+
+## Routed findings
+
+- The user's decision to defer a Higgsfield account until approved assets exist is routed to G008 as a provider-onboarding constraint; it does not alter G002 story canon.

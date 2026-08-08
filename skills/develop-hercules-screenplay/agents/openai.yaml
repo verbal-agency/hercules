@@ -1,0 +1,4 @@
+interface:
+  display_name: "Develop Hercules Screenplay"
+  short_description: "Develop the Hercules screenplay and production map"
+  default_prompt: "Use $develop-hercules-screenplay to advance the Hercules story from research through Fountain scenes, shots, prompts, and reference assets."

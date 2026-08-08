@@ -19,6 +19,7 @@ PS-03, PS-04, PS-05, PS-08.
 - Select the pilot by coverage of risk, not convenience.
 - Do not expand to full production until pilot exit criteria pass.
 - Preserve every generation run and evaluation result.
+- Defer Higgsfield account creation, authentication, and paid experimentation until G006 has approved assets and G007 has produced an auditable pilot package; do not make provider access a dependency of earlier story or visual-development goals.
 
 ## In scope
 
@@ -64,3 +65,4 @@ PS-03, PS-04, PS-05, PS-08.
 ## Carried risk
 
 - The quality threshold must be agreed before generation to avoid moving the target after seeing results.
+- Provider onboarding and credit commitment remain deliberately deferred until the pilot has approved asset inputs and explicit experiment scope.

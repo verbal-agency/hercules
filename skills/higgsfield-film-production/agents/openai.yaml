@@ -1,0 +1,4 @@
+interface:
+  display_name: "Higgsfield Film Production"
+  short_description: "Plan and generate Higgsfield film shots"
+  default_prompt: "Use $higgsfield-film-production to prepare or execute Higgsfield-ready scene and shot generation."

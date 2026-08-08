@@ -24,7 +24,7 @@ The completed development package will contain:
 - Medium: handcrafted clay stop-motion language, even when produced with video-generation models.
 - Scope boundary: the Deianeira/Nessus/death/apotheosis cycle is reserved for a later film or separately approved coda.
 
-These are working decisions. Material changes must be recorded in the adaptation decision log created by Goal G002.
+G002 approved these story boundaries and their detailed implementation in `01_research/adaptation_decisions.md`. Material changes must be recorded as superseding entries in that decision log.
 
 ## Project-level acceptance scenarios
 
