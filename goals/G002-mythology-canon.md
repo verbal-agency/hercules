@@ -63,6 +63,8 @@ PS-01, PS-06, PS-07.
 
 ## Approved outcomes
 
+The following records what G002 approved at cycle close. AD-024 through AD-030, listed in the post-completion section below, supersede its audience and divine-frame boundaries for current development.
+
 - Pseudo-Apollodorus's pre-Labor madness chronology governs; Euripides's post-Labor chronology remains documented and informs aftermath and friendship, not event order.
 - All twelve Labors remain canonical, with G003 authorized to classify their screen treatment by dramatic weight.
 - The film targets a family-accessible teen audience at an approximate PG-13 boundary, with non-graphic family violence and non-stigmatizing divine madness.
@@ -84,3 +86,17 @@ PS-01, PS-06, PS-07.
 ## Routed findings
 
 - The user's decision to defer a Higgsfield account until approved assets exist is routed to G008 as a provider-onboarding constraint; it does not alter G002 story canon.
+
+## Post-completion canon amendments
+
+On 2026-08-08 the user approved a new adult tone, expanded divine frame, and braided nonlinear structure after G002 closed. The historical verification above remains accurate for the completed cycle; current canon is amended by AD-024 through AD-031 in `01_research/adaptation_decisions.md`:
+
+- target an R rating with visible, consequential violence;
+- haunt Hercules through evolving nightmares and waking intrusions without a forgiving Megara ghost;
+- use recurring Olympus scenes, on-screen Hera strategy, divine gossip, and a present but culpably passive Zeus;
+- treat Hera's attacks from the birth-order trick and cradle onward as one campaign;
+- unify every Labor through persistent mortal and divine consequences;
+- reveal the Labors' competing purposes in stages and show Prometheus on his rock before Labor 11;
+- let supporting characters, gods, creatures, and future Labor figures propel a selectively nonlinear presentation while preserving reconstructable causality.
+
+These amendments refine the starting constraints for G003; they do not reopen the completed research cycle.

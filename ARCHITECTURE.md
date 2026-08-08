@@ -10,6 +10,7 @@ Rules:
 
 - The screenplay remains readable without production metadata.
 - Scenes receive stable IDs such as `SC_030_HYDRA_MARSH`.
+- Nonlinear scenes separately record presentation order, story-time anchor, viewpoint or transition owner, and causal predecessors. Continuity follows story time; editorial adjacency is recorded separately and never silently substitutes for causality.
 - Source tradition, inference, and original invention are labeled in research documents.
 - Model prompts never become the authoritative description of story intent.
 
@@ -32,6 +33,7 @@ Inheritable scene and shot instructions derived from the story and visual canon,
 Rules:
 
 - Every screenplay scene that will be generated receives a scene package keyed by its stable scene ID.
+- Scene packages preserve presentation order, story-time anchor, viewpoint or transition owner, causal predecessors, and edit-order predecessor from the story layer so nonlinear assembly cannot silently corrupt continuity.
 - Scene packages own shared narrative intent, spatial layout, time, lighting, palette, material rules, continuity boundaries, canonical asset bindings, and scene-wide constraints.
 - Shots receive stable IDs such as `SH_0063` and inherit from exactly one scene package.
 - Shot packages own active asset inputs, starting state, one primary action whenever practical, camera, duration, continuity changes, and shot-specific overrides.
@@ -108,6 +110,11 @@ notes: ""
 ```yaml
 scene_id: SC_030_HYDRA_MARSH
 status: planned
+presentation_order: 0
+story_time_anchor: ""
+viewpoint_or_transition_owner: ""
+causal_predecessors: []
+edit_order_predecessor: null
 narrative_objective: ""
 emotional_progression: ""
 asset_bindings:

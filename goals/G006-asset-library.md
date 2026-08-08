@@ -22,7 +22,7 @@ PS-03, PS-05, PS-06, PS-07.
 
 ## In scope
 
-- Recurring characters, principal creatures, locations, props, costumes, scale chart, expressions, damage states, Hero Frames, location continuity locks, provider-ready derivatives, and reference manifest.
+- Recurring mortal and Olympian characters, Prometheus, principal creatures, mortal and divine locations, props, costumes, scale chart, expressions, damage states, nightmare/memory variants, Hero Frames, location continuity locks, provider-ready derivatives, and reference manifest.
 
 ## Exclusions
 
@@ -40,6 +40,8 @@ PS-03, PS-05, PS-06, PS-07.
 
 - [ ] Every entity required by the screenplay scene index has an asset ID or an approved incidental-asset policy.
 - [ ] Every recurring entity has an approved version, master path, provenance, and necessary continuity states.
+- [ ] Character, costume, prop, wound, and environment states are keyed to story chronology independently of presentation order so nonlinear editing cannot silently revert continuity.
+- [ ] The Olympian ensemble, Olympus environments, Prometheus and his rock, and all recurring nightmare/memory symbols have approved assets or explicitly approved reuse/variation rules.
 - [ ] Hercules has approved turnarounds for every costume and damage state used in the screenplay.
 - [ ] Creature sheets describe anatomy, scale, movement, and rig-sensitive failure risks.
 - [ ] Approved assets expose the model-ready views and derivatives needed for declared generation-input roles.

@@ -52,4 +52,10 @@ This corpus distinguishes ancient testimony from modern orientation. Ancient wor
 | Theseus is encountered in the Underworld | SRC_A01 2.5.12; SRC_A12 30–35 |
 | Hercules returns Cerberus and completes service | SRC_A01 2.5.12 |
 | Hercules chooses life and human connection after atonement | Original resolution influenced by SRC_A03 1214–1428 |
+| Olympus interpenetrates the mortal world as a dramatic court | Original framing grounded in divine conflict and intervention in SRC_A03 and SRC_A05 |
+| Gods recall Hera's campaign from the birth-order trick and cradle serpents onward | Original connective dialogue synthesizing SRC_A01 2.4.5–8, SRC_A05 19.95–133, and SRC_A09 *Nemean* 1.33–72 |
+| Hercules is haunted by evolving nightmares and waking memories | Original subjective device influenced by SRC_A03's treatment of shame and survival; not an ancient ghost tradition claim |
+| Prometheus is glimpsed on his rock before Hercules reaches him | Original setup for the sourced Labor 11 encounter in SRC_A01 2.5.11 |
+| The Labors acquire legal, political, divine, civic, and personal meanings in stages | Original dramatic synthesis using SRC_A01, SRC_A02, and SRC_A05 |
+| Supporting characters, gods, creatures, and future Labor figures initiate movements in a braided nonlinear presentation | Original structural choice; story-time chronology remains traceable to the selected source sequence |
 | Deianeira, Nessus, death, and apotheosis remain ahead | SRC_A01 2.7.5–7; SRC_A04; SRC_A02 4.36–39 |

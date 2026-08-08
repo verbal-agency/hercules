@@ -31,7 +31,7 @@ Pronunciations are accessible English approximations, not a claim to reconstruct
 | Written name | Pronunciation | Function here |
 |---|---|---|
 | Hera | **HAIR**-uh | Principal divine antagonist |
-| Zeus | zoos | Divine father; absent power |
+| Zeus | zoos | Divine father; present on Olympus and culpably passive |
 | Athena | uh-**THEE**-nuh | Bounded helper |
 | Artemis | **AR**-tuh-miss | Protects the Ceryneian Hind |
 | Apollo | uh-**POL**-oh | Delphi and the Hind episode |
@@ -39,6 +39,7 @@ Pronunciations are accessible English approximations, not a claim to reconstruct
 | Hades | **HAY**-deez | God and realm distinguished by context |
 | Persephone | per-**SEF**-uh-nee | Queen of the Underworld |
 | Lyssa | **LISS**-uh | Personified frenzy in Euripides; source concept, not necessarily a named screen character |
+| Prometheus | pruh-**MEE**-thee-us | Chained Titan; recurring image of divine punishment and Labor 11 release |
 
 ## Labor names
 

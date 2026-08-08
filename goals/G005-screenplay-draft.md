@@ -38,6 +38,7 @@ PS-01, PS-02, PS-07.
 
 - [ ] The screenplay has a complete beginning, middle, climax, and resolution with no placeholder scenes.
 - [ ] Every screenplay scene maps to exactly one stable scene-index entry.
+- [ ] Nonlinear presentation follows the approved braid, and every scene's story-time position and causal state remain consistent even when editorially separated from its predecessor.
 - [ ] Names, chronology, and Labor outcomes conform to approved decisions.
 - [ ] The screenplay is readable without production metadata and contains no generation prompts.
 - [ ] Estimated runtime is within the approved range or a deviation is documented.

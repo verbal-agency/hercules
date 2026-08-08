@@ -21,6 +21,7 @@ PS-03, PS-04, PS-05, PS-07.
 - Every asset binding references a stable version and declares its generation-input role.
 - Shot overrides must be explicit and cannot silently contradict visual canon or continuity.
 - Preserve generation history rather than overwriting runs.
+- Scene packages inherit story-time state and causal predecessors from the scene index; edit-order adjacency is a separate relationship and cannot silently determine continuity.
 
 ## In scope
 
@@ -55,6 +56,7 @@ PS-03, PS-04, PS-05, PS-07.
 - [ ] Camera, lens, focal length, aperture, grade, and speed controls are not duplicated inconsistently between structured fields and prompt prose.
 - [ ] The exploratory/final quality and credit-approval policy blocks short and cheap before extending or finalizing accepted motion.
 - [ ] Continuity-in and continuity-out states are explicit and machine-checkable.
+- [ ] Scene and shot schemas distinguish story-time continuity, causal predecessor, edit-order predecessor, and presentation order for nonlinear sequences.
 - [ ] The dry-run sequence resolves its scene, child shots, canonical asset versions, and compiled generation requests.
 - [ ] Invalid, missing, or retired IDs cause validation failure.
 - [ ] Generation runs and selections can be added without overwriting prior history.

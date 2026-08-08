@@ -19,10 +19,15 @@ PS-01, PS-02, PS-07.
 - Follow approved adaptation decisions or record a superseding decision.
 - Use stable scene IDs.
 - Keep generation prompts and final visual design out of story documents.
+- Target an adult R-rated tragedy with visible consequence; clay stylization cannot substitute for dramatic consequence.
+- Build a recurring Olympus plotline, an evolving nightmare motif, and a pre-Labor-11 Prometheus setup without allowing any of them to become detachable exposition.
+- Carry physical, relational, political, and divine state across Labor transitions so the world never resets between episodes.
+- Use braided, selectively nonlinear presentation while keeping story chronology and causality reconstructable.
+- Rotate sequence agency and transition ownership across the ensemble and world; do not use a repeated return/assignment/Labor/nightmare loop.
 
 ## In scope
 
-- Logline, theme, dramatic question, character arcs, sequence treatment, pacing targets, beat sheet, scene inventory, and later-film boundary.
+- Logline, theme, dramatic question, mortal and divine character arcs, sequence treatment, pacing targets, beat sheet with separate story and presentation order, scene inventory, ensemble-agency map, transition-owner map, nightmare progression, Olympus progression, staged purpose revelations, and later-film boundary.
 
 ## Exclusions
 
@@ -39,9 +44,17 @@ PS-01, PS-02, PS-07.
 ## Acceptance criteria
 
 - [ ] The treatment covers the feature from opening image through final image.
-- [ ] Every sequence advances Hercules’s external objective and internal arc.
+- [ ] Every sequence advances the feature's external conflict and at least one defined mortal or divine character arc; Hercules remains the protagonist without being the sole source of agency.
 - [ ] All twelve Labors are classified as full sequence, compressed scene, montage beat, or omitted reference.
-- [ ] Every scene index entry has a unique ID, location, characters, purpose, and estimated duration.
+- [ ] Olympus and the mortal world causally interpenetrate: every divine scene changes mortal pressure or audience understanding, mortal outcomes provoke divine response, and Hera's campaign from the cradle onward is progressively exposed.
+- [ ] Nightmare and waking-memory beats evolve with Hercules's responsibility and never turn Megara into a forgiving ghost.
+- [ ] No nightmare functions as automatic post-Labor punctuation; every full nightmare or intrusion produces a dramatic turn in the scene where it appears.
+- [ ] Prometheus is seen suffering before Labor 11 and his eventual release pays off the setup.
+- [ ] The legal, political, divine, civic, and personal purposes of the Labors are planted and revised at multiple structural turns.
+- [ ] Every Labor transition carries at least one persistent consequence, relationship, object, wound, reputation change, or divine action into the next movement.
+- [ ] Labor movements are introduced or reframed through varied agents and mechanisms—including supporting characters, antagonists, gods, threatened communities, creatures, places, objects, or unanswered questions—rather than repeated court assignments.
+- [ ] Every nonlinear displacement earns suspense, dramatic irony, thematic collision, or recontextualization, and the consequential chronology is reconstructable by the final act.
+- [ ] Every scene index entry has a unique ID, presentation order, story-time anchor, viewpoint or transition owner, causal predecessors, location, characters, purpose, and estimated duration.
 - [ ] Total estimated duration is within the approved range or a deviation is approved.
 - [ ] Every original invention is traceable to the G002 decision log.
 - [ ] The treatment is understandable without visual assets or prompts.
@@ -51,3 +64,8 @@ PS-01, PS-02, PS-07.
 - Duration sum from the scene index.
 - Beat-to-scene and character-arc coverage review.
 - Source/invention traceability check for every sequence.
+- Olympus/mortal causal-interpenetration and Hera-campaign progression review.
+- Nightmare-evolution and Labor-purpose-revelation coverage review.
+- Transition-state check across all twelve Labors.
+- Story-time versus presentation-order reconstruction check.
+- Sequence-agency and transition-owner review confirming that the supporting cast and world actively propel the plot.

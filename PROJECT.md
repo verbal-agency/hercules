@@ -20,11 +20,13 @@ The completed development package will contain:
 - Format: 105–115 minute feature.
 - Working title: *Hercules: The Weight*.
 - Dramatic spine: madness precedes the Labors, making them an act of atonement.
-- Tone: mythic, tactile, emotionally serious, with selective humor and non-graphic treatment of family violence.
+- Tone: adult mythic tragedy targeting an R rating, with visible consequential violence, selective humor, and an evolving nightmare language for Hercules's trauma.
 - Medium: handcrafted clay stop-motion language, even when produced with video-generation models.
+- Structure: a braided, selectively nonlinear presentation interweaves Hercules's journey with active supporting-character, creature, and divine threads. Hera, Eurystheus, Iolaus, threatened communities, Prometheus, Atlas, Cerberus, and the gods may initiate or reframe movements before Hercules enters them.
+- World: the Labors, divine politics, mortal institutions, Prometheus's punishment, and the Underworld belong to one causally connected mythic system rather than an anthology of disconnected quests.
 - Scope boundary: the Deianeira/Nessus/death/apotheosis cycle is reserved for a later film or separately approved coda.
 
-G002 approved these story boundaries and their detailed implementation in `01_research/adaptation_decisions.md`. Material changes must be recorded as superseding entries in that decision log.
+G002 approved the original story boundaries; user-approved amendments AD-024 through AD-031 now govern tone, haunting, Olympus, Zeus, Hera's continuous campaign, world unity, the progressively revealed purposes of the Labors, and braided nonlinear presentation. Material changes must be recorded as superseding entries in `01_research/adaptation_decisions.md`.
 
 ## Project-level acceptance scenarios
 

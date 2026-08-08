@@ -19,10 +19,13 @@ PS-03, PS-05, PS-06, PS-07.
 - Visual rules must work across video models and practical stop-motion.
 - References require provenance; exploration is not automatically canon.
 - Human, divine, and monstrous materials must be distinguishable.
+- The adult violence target must remain consequential in clay without relying on photorealism or assuming stylization lowers the rating. Its depiction must be tasteful and never gratuitous; every direct image must serve character, consequence, theme, or plot.
+- Olympus, ordinary waking life, remembered violence, divine intrusion, and nightmare must have related but distinguishable visual grammars.
+- Nonlinear shifts must have a legible temporal grammar that distinguishes story-time displacement, anticipatory cutaway, memory, nightmare, and divine vision without depending on exposition.
 
 ## In scope
 
-- Style principles, reference boards, material taxonomy, color script, motivated-light rules, optical packages, camera grammar, motion cadence, effects language, grade presets, scale strategy, and violence representation.
+- Style principles, reference boards, material taxonomy, color script, motivated-light rules, optical packages, camera grammar, motion cadence, effects language, grade presets, scale strategy, adult violence representation, Olympus language, and nightmare/memory language.
 
 ## Exclusions
 
@@ -41,13 +44,14 @@ PS-03, PS-05, PS-06, PS-07.
 
 ## Acceptance criteria
 
-- [ ] A reviewer can distinguish mortal, divine, monstrous, memory, and madness imagery using documented rules.
+- [ ] A reviewer can distinguish mortal, Olympian, monstrous, remembered, nightmare, and active divine-intrusion imagery using documented rules.
+- [ ] Temporal and transition rules let a viewer distinguish present action, displaced story time, anticipation, memory, nightmare, and divine vision while preserving purposeful ambiguity where approved by G003.
 - [ ] Every feature sequence has an assigned palette and lighting state.
 - [ ] Camera and motion rules define the intended stop-motion cadence and prohibited CGI-like behavior.
 - [ ] Approved optical packages define camera/sensor profile, lens family, focal-length range, aperture/depth behavior, aspect ratio, and intended shot use.
 - [ ] Every principal location defines one motivated light source, direction, falloff, and permitted grade treatments.
 - [ ] Camera, lens, light, and grade rules can map to structured provider controls without becoming provider-specific canon.
-- [ ] Violence rules specify direct, silhouetted, implied, and prohibited imagery.
+- [ ] Violence rules specify direct, fractured-subjective, silhouetted, implied, and prohibited imagery, including distinct handling for the family deaths, human combat, creature combat, Prometheus's punishment, and aftermath, plus a narrative-purpose test that excludes gratuitous imagery.
 - [ ] At least one visual example or test supports every major style rule.
 - [ ] All external references satisfy PS-06 metadata.
 - [ ] The bible contains no model-specific prompt syntax.
