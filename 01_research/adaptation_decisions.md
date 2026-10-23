@@ -17,6 +17,9 @@ Superseded entries stay below as history. Where they conflict with this table, t
 | Haunting | AD-025: evolving nightmares and intrusions; no forgiving ghost | — |
 | World and Labor purposes | AD-029 (one world), AD-030 (five purposes in stages, Prometheus before Labor 11) | — |
 | Presentation | AD-031: braided, selectively nonlinear; causal chronology binding | — |
+| Tone | AD-033: dark comedy with consequence; no rules about who may joke | "adult mythic tragedy" framing |
+| Gods | AD-034: careless, address the audience, not strictly invisible | — |
+| Ambient world | AD-035: simultaneous dawns, eagle as clock; hinges for any displacement | — |
 | Opening and disclosure | AD-032: open mid-Labor; family catastrophe withheld and alluded to before full presentation | — |
 | Unchanged | AD-001–013, AD-017–023 (chronology, deaths, ending, character functions, period, naming, invention) | — |
 
@@ -250,6 +253,36 @@ These entries were approved by the user on 2026-08-08 after G002 closed. They go
 - Representation rule: The killings remain unmistakable by the time they are fully presented (AD-024), but implied, fractured-subjective, or silhouetted treatment is the default. Direct depiction is allowed only where it serves the narrative-purpose test. Staging should not depend on graphic imagery to land.
 - Evidence/classification: User-directed original structure; the in-medias-res reveal is a presentation choice with no ancient source claim.
 - Affected downstream artifacts: G003 opening image, beat sheet, and disclosure map; G004 violence ladder; G005 screenplay; G006 memory-state assets; G007 shot planning.
+- Status: Approved.
+
+### AD-033 — Dark comedy with consequence
+
+- Date: 2026-10-23.
+- Supersedes: None; refines AD-024 and clarifies AD-010; replaces "adult mythic tragedy" in the project's tone statement.
+- Decision: The film is a dark comedy with real consequence, not a straight tragedy. Humor arises from character and situation, as a way people cope, and is not governed by rules about who may joke or when. Prometheus greeting the eagle ("Good morning, old friend") is the model. Hercules is earnest and does not joke about the gods.
+- Boundary: AD-024's rating target and its prohibition on humor at a victim's expense remain. Eurystheus may be funny and remains dangerous.
+- Evidence/classification: User-directed original tone choice.
+- Affected downstream artifacts: `PROJECT.md`; G003 principles and treatment; G004 tone rules; G005 screenplay.
+- Status: Approved.
+
+### AD-034 — The gods are careless, address the audience, and are not strictly invisible
+
+- Date: 2026-10-23.
+- Supersedes: None; refines AD-026, AD-027, and AD-028.
+- Decision: The gods are careless people, in the manner of Tom and Daisy Buchanan, who damage mortal lives and retreat into their position. Their persecution of Hercules is persistent but unreflective. They may speak to the audience in a documentary-like manner, commenting on scenes. Their commentary is partial, biased, and sometimes wrong, and it is not an exposition channel. Gods are not strictly invisible to mortals; exceptions are allowed when they earn a purpose.
+- Boundary: Olympus remains interpenetrating (AD-026): divine scenes are anchored in mortal sets, and mortal objects and events cross into Olympus. Zeus's passivity is still a culpable choice (AD-027).
+- Evidence/classification: User-directed original framing device.
+- Affected downstream artifacts: G003 divine arcs and hinge map; G004 Olympus grammar; G005 screenplay.
+- Status: Approved.
+
+### AD-035 — Simultaneous world: the day starts everywhere
+
+- Date: 2026-10-23.
+- Supersedes: None; extends AD-029 and AD-031.
+- Decision: Distant figures (Prometheus and the eagle, Atlas, Cerberus, Theseus and Pirithous, Hera, and others) are woven into ordinary scenes at varying levels of attention: foreground, peripheral, or short montage. Recurring dawn passages show the world starting its day in many places at once. Prometheus's daily eagle is the film's clock. Simultaneity is preferred to flashback or flash-forward; any true displacement needs a hinge visible within the story and must earn its place.
+- Production note: Dense multi-layer tableaux should be planned as layered plates for G004 and G007, not single-prompt shots.
+- Evidence/classification: User-directed original structure.
+- Affected downstream artifacts: G003 outline, scene index (ambient threads), and hinge map; G004 temporal grammar; G007 layered scene packages.
 - Status: Approved.
 
 ## Change procedure

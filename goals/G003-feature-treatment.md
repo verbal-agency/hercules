@@ -19,7 +19,7 @@ PS-01, PS-02, PS-07.
 - Follow approved adaptation decisions or record a superseding decision.
 - Use stable scene IDs.
 - Keep generation prompts and final visual design out of story documents.
-- Target an adult R-rated tragedy with visible consequence; clay stylization cannot substitute for dramatic consequence.
+- Target an adult R-rated dark comedy with visible consequence (AD-033); clay stylization cannot substitute for dramatic consequence.
 - Build a recurring Olympus plotline, an evolving nightmare motif, and a pre-Labor-11 Prometheus setup without allowing any of them to become detachable exposition.
 - Carry physical, relational, political, and divine state across Labor transitions so the world never resets between episodes.
 - Use braided, selectively nonlinear presentation while keeping story chronology and causality reconstructable.
@@ -77,3 +77,4 @@ PS-01, PS-02, PS-07.
 - Run an early reader test on the nonlinear beat sheet (story-time versus presentation order) before drafting treatment prose.
 - Estimate per-sequence durations early; twelve Labors plus Olympus and nightmares must fit 105–115 minutes.
 - Provider moderation of violent imagery is untested; route to G008. Prefer staging that works as implied or fractured imagery, and test early with a claymation-framed sample.
+- AD-033 to AD-035 also govern this goal: dark-comedy tone, careless documentary gods who are not strictly invisible, and a simultaneous world (recurring dawns, eagle as clock) in which any true displacement needs a visible hinge and a named payoff. Add a hinge map and an ambient-thread layer to the scene index.
