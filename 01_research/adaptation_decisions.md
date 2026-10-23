@@ -271,6 +271,7 @@ These entries were approved by the user on 2026-08-08 after G002 closed. They go
 - Supersedes: None; refines AD-026, AD-027, and AD-028.
 - Decision: The gods are careless people, in the manner of Tom and Daisy Buchanan, who damage mortal lives and retreat into their position. Their persecution of Hercules is persistent but unreflective. They may speak to the audience in a documentary-like manner, commenting on scenes. Their commentary is partial, biased, and sometimes wrong, and it is not an exposition channel. Gods are not strictly invisible to mortals; exceptions are allowed when they earn a purpose.
 - Boundary: Olympus remains interpenetrating (AD-026): divine scenes are anchored in mortal sets, and mortal objects and events cross into Olympus. Zeus's passivity is still a culpable choice (AD-027).
+- Clarification (2026-10-23): Hera sets the madness in motion without picturing its consequences. When the family's deaths play out she is visibly aghast and walks out; the humor is in her failure of foresight, never in the deaths or the victims. Aghast is not remorse (AD-011): she resumes her campaign afterward, partly as a way of not looking at what she did.
 - Evidence/classification: User-directed original framing device.
 - Affected downstream artifacts: G003 divine arcs and hinge map; G004 Olympus grammar; G005 screenplay.
 - Status: Approved.
