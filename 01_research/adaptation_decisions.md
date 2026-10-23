@@ -17,6 +17,7 @@ Superseded entries stay below as history. Where they conflict with this table, t
 | Haunting | AD-025: evolving nightmares and intrusions; no forgiving ghost | — |
 | World and Labor purposes | AD-029 (one world), AD-030 (five purposes in stages, Prometheus before Labor 11) | — |
 | Presentation | AD-031: braided, selectively nonlinear; causal chronology binding | — |
+| Opening and disclosure | AD-032: open mid-Labor; family catastrophe withheld and alluded to before full presentation | — |
 | Unchanged | AD-001–013, AD-017–023 (chronology, deaths, ending, character functions, period, naming, invention) | — |
 
 ## Story canon
@@ -238,6 +239,17 @@ These entries were approved by the user on 2026-08-08 after G002 closed. They go
 - Clarity rule: G003 must separately record presentation order, story-time position, viewpoint or transition owner, and causal predecessors. By the final act, a viewer must be able to reconstruct the consequential chronology without an explanatory monologue.
 - Evidence/classification: User-directed original structure using chaptered nonlinear, braided-ensemble, delayed-context, and dramatic-irony techniques; no claim that this presentation derives from an ancient source.
 - Affected downstream artifacts: G003 treatment, beat sheet, character arcs, and scene index; G004 temporal and transition grammar; G005 screenplay; G006 story-time continuity states; G007 scene/shot inheritance; G010 animatic.
+- Status: Approved.
+
+### AD-032 — Open mid-service; the family catastrophe is withheld and alluded to
+
+- Date: 2026-10-23.
+- Supersedes: None; refines AD-024, AD-025, and AD-031.
+- Decision: The feature does not open with Hercules's life with Megara or the madness. It opens with Hercules already in service, mid-Labor. The family's deaths enter through allusion and indirection: characters ask why he serves, where his wife is, or what he is atoning for; objects, absences, reactions, and partial memory supply the rest. Dialogue need not state events literally.
+- Disclosure rule: Each allusion must change what the audience or a character understands, and the full causal picture is assembled progressively. The chronology of AD-001 is unchanged: madness precedes service, and the pre-madness life with Megara is shown only where a displaced scene earns it under AD-031.
+- Representation rule: The killings remain unmistakable by the time they are fully presented (AD-024), but implied, fractured-subjective, or silhouetted treatment is the default. Direct depiction is allowed only where it serves the narrative-purpose test. Staging should not depend on graphic imagery to land.
+- Evidence/classification: User-directed original structure; the in-medias-res reveal is a presentation choice with no ancient source claim.
+- Affected downstream artifacts: G003 opening image, beat sheet, and disclosure map; G004 violence ladder; G005 screenplay; G006 memory-state assets; G007 shot planning.
 - Status: Approved.
 
 ## Change procedure

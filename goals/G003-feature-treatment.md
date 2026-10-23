@@ -72,8 +72,8 @@ PS-01, PS-02, PS-07.
 
 ## Carried findings (from pre-G003 evaluation)
 
-- Linus's death is "mention or imply" only (variant matrix); the treatment must still establish Hercules's capacity for dangerous rage before the family deaths so the catastrophe is not his first violence on screen.
+- Per AD-032, open mid-service with the family catastrophe withheld. G003 must include a disclosure map listing each allusion (who asks, what is withheld, what the audience learns) and the point of full presentation. Hercules's capacity for dangerous rage should still be established before that point (Linus remains mention-only).
 - Theseus must be seeded before Labor 12 (AD-013); place the seed explicitly in the beat sheet.
 - Run an early reader test on the nonlinear beat sheet (story-time versus presentation order) before drafting treatment prose.
 - Estimate per-sequence durations early; twelve Labors plus Olympus and nightmares must fit 105–115 minutes.
-- Provider moderation of child-death and graphic-violence imagery is untested; route to G008 as a pilot risk.
+- Provider moderation of violent imagery is untested; route to G008. Prefer staging that works as implied or fractured imagery, and test early with a claymation-framed sample.
