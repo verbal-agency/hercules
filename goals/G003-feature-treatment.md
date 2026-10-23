@@ -69,3 +69,11 @@ PS-01, PS-02, PS-07.
 - Transition-state check across all twelve Labors.
 - Story-time versus presentation-order reconstruction check.
 - Sequence-agency and transition-owner review confirming that the supporting cast and world actively propel the plot.
+
+## Carried findings (from pre-G003 evaluation)
+
+- Linus's death is "mention or imply" only (variant matrix); the treatment must still establish Hercules's capacity for dangerous rage before the family deaths so the catastrophe is not his first violence on screen.
+- Theseus must be seeded before Labor 12 (AD-013); place the seed explicitly in the beat sheet.
+- Run an early reader test on the nonlinear beat sheet (story-time versus presentation order) before drafting treatment prose.
+- Estimate per-sequence durations early; twelve Labors plus Olympus and nightmares must fit 105–115 minutes.
+- Provider moderation of child-death and graphic-violence imagery is untested; route to G008 as a pilot risk.

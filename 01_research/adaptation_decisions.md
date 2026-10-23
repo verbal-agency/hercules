@@ -4,6 +4,21 @@ Status: Approved for G003 treatment development on 2026-08-08; amended by AD-024
 
 Changes to an approved decision require a new dated entry; do not rewrite the historical rationale invisibly.
 
+## Current canon at a glance
+
+Superseded entries stay below as history. Where they conflict with this table, this table governs.
+
+| Topic | Governing decision | Retired |
+|---|---|---|
+| Rating and violence | AD-024: R, visible consequence, never gratuitous | AD-016 (PG-13) |
+| Zeus | AD-027: present in Olympus, culpably passive | AD-014 (absent) |
+| Gods | AD-026: recurring Olympus scenes; bounded direct action still applies | AD-015 (episode-bound only) |
+| Hera | AD-028: one continuous campaign from the birth-order trick onward (extends AD-011) | — |
+| Haunting | AD-025: evolving nightmares and intrusions; no forgiving ghost | — |
+| World and Labor purposes | AD-029 (one world), AD-030 (five purposes in stages, Prometheus before Labor 11) | — |
+| Presentation | AD-031: braided, selectively nonlinear; causal chronology binding | — |
+| Unchanged | AD-001–013, AD-017–023 (chronology, deaths, ending, character functions, period, naming, invention) | — |
+
 ## Story canon
 
 ### AD-001 — Madness precedes the Labors
