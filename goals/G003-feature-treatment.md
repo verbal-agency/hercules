@@ -78,3 +78,17 @@ PS-01, PS-02, PS-07.
 - Estimate per-sequence durations early; twelve Labors plus Olympus and nightmares must fit 105–115 minutes.
 - Provider moderation of violent imagery is untested; route to G008. Prefer staging that works as implied or fractured imagery, and test early with a claymation-framed sample.
 - AD-033 to AD-035 also govern this goal: dark-comedy tone, careless documentary gods who are not strictly invisible, and a simultaneous world (recurring dawns, eagle as clock) in which any true displacement needs a visible hinge and a named payoff. Add a hinge map and an ambient-thread layer to the scene index.
+
+## Open story questions (unresolved; decide during development)
+
+Working direction: chapters named for people in the manner of Catch-22 (Eurystheus as the goalpost-moving bureaucracy; the family event returning in changing fragments; physical set pieces leading; jokes arising from character; the Labors as ensemble chapters). Hercules is messy, not moralized (AD-036). `02_story/outline_draft.md` (v4) predates this direction.
+
+- **Gods' consequence:** an act (Hercules wounds Hera, per Iliad 5.392ff), an enforced witness (Hera cannot walk out), an ensemble job on Olympus, or fallout that arrives unforced. Undecided; do not force a payoff.
+- **The "thirteenth line":** the king overreaching past Delphi's mandate (verify "twelve years" in SRC_A01 2.4.12), the restored-house task, or Hercules's own act afterward. Not a canonical Labor; any version is a labeled invention (AD-021).
+- **Placement of the full family telling:** center (about 55%) or late (about 70%).
+- **Degree of nonlinearity:** currently a retreat from AD-031's braid; confirm or restore.
+- **Documentary frame:** reduced to occasional godly commentary; confirm.
+- **Hermes narrating:** undecided. **Zeus's presence in the Megara chapter:** undecided.
+- **Iolaus:** needs an arc and a clear exit and return across the chapters.
+- **Running legend:** the inflating story of Hercules needs placements and a payoff.
+- **Sources to add to the corpus before relying on them:** Hesiod, *Theogony* (Mecone sacrifice); Homer, *Iliad* 5.392ff (Hercules wounds Hera and Hades); Aeschylus, *Prometheus Bound*; Apollodorus 2.4.12 (length of service).

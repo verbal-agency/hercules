@@ -1,6 +1,6 @@
 # Outline Draft (v4)
 
-Status: Draft for discussion. Not approved; not a G003 deliverable. Governed by AD-032 to AD-035. Durations are targets (about 111 minutes).
+Status: Superseded in direction (see goals/G003 "Open story questions"); kept for reference. Draft for discussion. Not approved; not a G003 deliverable. Governed by AD-032 to AD-035. Durations are targets (about 111 minutes).
 
 ## Conventions
 
