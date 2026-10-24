@@ -19,6 +19,7 @@ PS-03, PS-05, PS-06, PS-07.
 - Maintain one authoritative visual library.
 - Keep exploratory, approved, and model-derived assets separate.
 - Version all approved assets and continuity states.
+- Olympian and mortal scenes may share locations; location assets and lighting locks must support gods appearing inside mortal sets (AD-034).
 
 ## In scope
 

@@ -22,6 +22,7 @@ PS-03, PS-04, PS-05, PS-07.
 - Shot overrides must be explicit and cannot silently contradict visual canon or continuity.
 - Preserve generation history rather than overwriting runs.
 - Scene packages inherit story-time state and causal predecessors from the scene index; edit-order adjacency is a separate relationship and cannot silently determine continuity.
+- Hinges (hinge-in, hinge-out) and ambient threads from the scene index must be representable, and dense multi-thread tableaux must be representable as layered plates, not only as single shots (AD-035).
 
 ## In scope
 
@@ -57,6 +58,7 @@ PS-03, PS-04, PS-05, PS-07.
 - [ ] The exploratory/final quality and credit-approval policy blocks short and cheap before extending or finalizing accepted motion.
 - [ ] Continuity-in and continuity-out states are explicit and machine-checkable.
 - [ ] Scene and shot schemas distinguish story-time continuity, causal predecessor, edit-order predecessor, and presentation order for nonlinear sequences.
+- [ ] Scene packages carry hinge-in, hinge-out, and ambient-thread references from the scene index, and layered-plate shots resolve their component plates.
 - [ ] The dry-run sequence resolves its scene, child shots, canonical asset versions, and compiled generation requests.
 - [ ] Invalid, missing, or retired IDs cause validation failure.
 - [ ] Generation runs and selections can be added without overwriting prior history.
