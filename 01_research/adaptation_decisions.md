@@ -20,6 +20,7 @@ Superseded entries stay below as history. Where they conflict with this table, t
 | Tone | AD-033: dark comedy with consequence; no rules about who may joke | "adult mythic tragedy" framing |
 | Gods | AD-034: careless, address the audience, not strictly invisible | — |
 | Ambient world | AD-035: simultaneous dawns, eagle as clock; hinges for any displacement | — |
+| Hercules's arc | AD-036: messy, not moralized; no required force-to-restraint progression | AD-005 arc requirement |
 | Opening and disclosure | AD-032: open mid-Labor; family catastrophe withheld and alluded to before full presentation | — |
 | Unchanged | AD-001–013, AD-017–023 (chronology, deaths, ending, character functions, period, naming, invention) | — |
 
@@ -284,6 +285,18 @@ These entries were approved by the user on 2026-08-08 after G002 closed. They go
 - Production note: Dense multi-layer tableaux should be planned as layered plates for G004 and G007, not single-prompt shots.
 - Evidence/classification: User-directed original structure.
 - Affected downstream artifacts: G003 outline, scene index (ambient threads), and hinge map; G004 temporal grammar; G007 layered scene packages.
+- Status: Approved.
+
+### AD-036 — Hercules is messy, not moralized
+
+- Date: 2026-10-24.
+- Supersedes: None; refines AD-005 and AD-006.
+- Decision: Hercules does not follow a moral improvement arc. The ancient tradition gives him no clean redemption, and he keeps cycling through rage, error, expiation, and consequence (SRC_A01 2.6-2.7, SRC_A04). The film preserves that mess. He may change tactics, accept help, or choose to keep living without becoming wiser, gentler, or absolved. Earlier harms are not cancelled by later restraint and are not turned into lessons.
+- Effect on AD-005: Labors may still vary in method, but "force toward restraint" is no longer a governing arc or a required progression.
+- Effect on AD-006: Completion still ends compulsory service, not grief, and the closing choice to continue living stays available, but it is a choice, not proof of growth.
+- Boundary: AD-002, AD-003, and AD-007 are unchanged. Responsibility stays shared but not erased, the dead stay dead, and the first film ends after Cerberus.
+- Evidence/classification: User-directed original characterization consistent with the ancient record; the improvement arc previously assumed in AD-005 was original dramatic organization.
+- Affected downstream artifacts: G003 character arcs, beat sheet, and ending; G005 screenplay.
 - Status: Approved.
 
 ## Change procedure
