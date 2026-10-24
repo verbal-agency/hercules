@@ -42,6 +42,8 @@ PS-03, PS-04, PS-05, PS-08.
 ## Acceptance criteria
 
 - [ ] The pilot tests character continuity, creature motion, environmental continuity, effects, and editorial coverage.
+- [ ] The pilot includes a hinge (a cross-world or cross-time transition) and either a layered-plate tableau or a documented reason it is deferred.
+- [ ] Provider handling of the violent imagery the story requires is tested early with staging that works as implied or fractured imagery, and the result is recorded.
 - [ ] Every generated shot is traceable through its scene package, shot package, resolved assets, compiled request, model settings, and source output.
 - [ ] Cross-shot invariants are inherited from the scene package rather than duplicated inconsistently across shot prompts.
 - [ ] The pilot completes every comparison required by `platforms/HIGGSFIELD.md` or documents why a comparison is unavailable.

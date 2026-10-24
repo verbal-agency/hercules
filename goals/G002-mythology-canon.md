@@ -59,7 +59,7 @@ PS-01, PS-06, PS-07.
 ## Carried risks
 
 - Ancient sources conflict and must not be flattened into a false canon.
-- A family-audience versus adult tone decision materially changes the madness sequence and must be resolved here.
+- A family-audience versus adult tone decision materially changes the madness sequence and must be resolved here. (Resolved as PG-13 at close; superseded by AD-024, R rating.)
 
 ## Approved outcomes
 
@@ -67,7 +67,7 @@ The following records what G002 approved at cycle close. AD-024 through AD-030, 
 
 - Pseudo-Apollodorus's pre-Labor madness chronology governs; Euripides's post-Labor chronology remains documented and informs aftermath and friendship, not event order.
 - All twelve Labors remain canonical, with G003 authorized to classify their screen treatment by dramatic weight.
-- The film targets a family-accessible teen audience at an approximate PG-13 boundary, with non-graphic family violence and non-stigmatizing divine madness.
+- ~~The film targets a family-accessible teen audience at an approximate PG-13 boundary, with non-graphic family violence and non-stigmatizing divine madness.~~ Superseded by AD-024 (R, visible consequence); non-stigmatizing divine madness (AD-017) still holds.
 - Cerberus's return completes compulsory service; choosing continued life completes the feature's emotional arc.
 - Deianeira, Nessus, Iole, the pyre, and apotheosis remain outside this feature.
 - Greek cultural naming surrounds the audience-facing name `Hercules`.

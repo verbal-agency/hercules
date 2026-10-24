@@ -4,6 +4,26 @@ Status: Approved for G003 treatment development on 2026-08-08; amended by AD-024
 
 Changes to an approved decision require a new dated entry; do not rewrite the historical rationale invisibly.
 
+## Current canon at a glance
+
+Superseded entries stay below as history. Where they conflict with this table, this table governs.
+
+| Topic | Governing decision | Retired |
+|---|---|---|
+| Rating and violence | AD-024: R, visible consequence, never gratuitous | AD-016 (PG-13) |
+| Zeus | AD-027: present in Olympus, culpably passive | AD-014 (absent) |
+| Gods | AD-026: recurring Olympus scenes; bounded direct action still applies | AD-015 (episode-bound only) |
+| Hera | AD-028: one continuous campaign from the birth-order trick onward (extends AD-011) | — |
+| Haunting | AD-025: evolving nightmares and intrusions; no forgiving ghost | — |
+| World and Labor purposes | AD-029 (one world), AD-030 (five purposes in stages, Prometheus before Labor 11) | — |
+| Presentation | AD-031: braided, selectively nonlinear; causal chronology binding | — |
+| Tone | AD-033: dark comedy with consequence; no rules about who may joke | "adult mythic tragedy" framing |
+| Gods | AD-034: careless, address the audience, not strictly invisible | — |
+| Ambient world | AD-035: simultaneous dawns, eagle as clock; hinges for any displacement | — |
+| Hercules's arc | AD-036: messy, not moralized; no required force-to-restraint progression | AD-005 arc requirement |
+| Opening and disclosure | AD-032: open mid-Labor; family catastrophe withheld and alluded to before full presentation | — |
+| Unchanged | AD-001–013, AD-017–023 (chronology, deaths, ending, character functions, period, naming, invention) | — |
+
 ## Story canon
 
 ### AD-001 — Madness precedes the Labors
@@ -223,6 +243,60 @@ These entries were approved by the user on 2026-08-08 after G002 closed. They go
 - Clarity rule: G003 must separately record presentation order, story-time position, viewpoint or transition owner, and causal predecessors. By the final act, a viewer must be able to reconstruct the consequential chronology without an explanatory monologue.
 - Evidence/classification: User-directed original structure using chaptered nonlinear, braided-ensemble, delayed-context, and dramatic-irony techniques; no claim that this presentation derives from an ancient source.
 - Affected downstream artifacts: G003 treatment, beat sheet, character arcs, and scene index; G004 temporal and transition grammar; G005 screenplay; G006 story-time continuity states; G007 scene/shot inheritance; G010 animatic.
+- Status: Approved.
+
+### AD-032 — Open mid-service; the family catastrophe is withheld and alluded to
+
+- Date: 2026-10-23.
+- Supersedes: None; refines AD-024, AD-025, and AD-031.
+- Decision: The feature does not open with Hercules's life with Megara or the madness. It opens with Hercules already in service, mid-Labor. The family's deaths enter through allusion and indirection: characters ask why he serves, where his wife is, or what he is atoning for; objects, absences, reactions, and partial memory supply the rest. Dialogue need not state events literally.
+- Disclosure rule: Each allusion must change what the audience or a character understands, and the full causal picture is assembled progressively. The chronology of AD-001 is unchanged: madness precedes service, and the pre-madness life with Megara is shown only where a displaced scene earns it under AD-031.
+- Representation rule: The killings remain unmistakable by the time they are fully presented (AD-024), but implied, fractured-subjective, or silhouetted treatment is the default. Direct depiction is allowed only where it serves the narrative-purpose test. Staging should not depend on graphic imagery to land.
+- Evidence/classification: User-directed original structure; the in-medias-res reveal is a presentation choice with no ancient source claim.
+- Affected downstream artifacts: G003 opening image, beat sheet, and disclosure map; G004 violence ladder; G005 screenplay; G006 memory-state assets; G007 shot planning.
+- Status: Approved.
+
+### AD-033 — Dark comedy with consequence
+
+- Date: 2026-10-23.
+- Supersedes: None; refines AD-024 and clarifies AD-010; replaces "adult mythic tragedy" in the project's tone statement.
+- Decision: The film is a dark comedy with real consequence, not a straight tragedy. Humor arises from character and situation, as a way people cope, and is not governed by rules about who may joke or when. Prometheus greeting the eagle ("Good morning, old friend") is the model. Hercules is earnest and does not joke about the gods.
+- Boundary: AD-024's rating target and its prohibition on humor at a victim's expense remain. Eurystheus may be funny and remains dangerous.
+- Evidence/classification: User-directed original tone choice.
+- Affected downstream artifacts: `PROJECT.md`; G003 principles and treatment; G004 tone rules; G005 screenplay.
+- Status: Approved.
+
+### AD-034 — The gods are careless, address the audience, and are not strictly invisible
+
+- Date: 2026-10-23.
+- Supersedes: None; refines AD-026, AD-027, and AD-028.
+- Decision: The gods are careless people, in the manner of Tom and Daisy Buchanan, who damage mortal lives and retreat into their position. Their persecution of Hercules is persistent but unreflective. They may speak to the audience in a documentary-like manner, commenting on scenes. Their commentary is partial, biased, and sometimes wrong, and it is not an exposition channel. Gods are not strictly invisible to mortals; exceptions are allowed when they earn a purpose.
+- Boundary: Olympus remains interpenetrating (AD-026): divine scenes are anchored in mortal sets, and mortal objects and events cross into Olympus. Zeus's passivity is still a culpable choice (AD-027).
+- Clarification (2026-10-23): Hera sets the madness in motion without picturing its consequences. When the family's deaths play out she is visibly aghast and walks out; the humor is in her failure of foresight, never in the deaths or the victims. Aghast is not remorse (AD-011): she resumes her campaign afterward, partly as a way of not looking at what she did.
+- Evidence/classification: User-directed original framing device.
+- Affected downstream artifacts: G003 divine arcs and hinge map; G004 Olympus grammar; G005 screenplay.
+- Status: Approved.
+
+### AD-035 — Simultaneous world: the day starts everywhere
+
+- Date: 2026-10-23.
+- Supersedes: None; extends AD-029 and AD-031.
+- Decision: Distant figures (Prometheus and the eagle, Atlas, Cerberus, Theseus and Pirithous, Hera, and others) are woven into ordinary scenes at varying levels of attention: foreground, peripheral, or short montage. Recurring dawn passages show the world starting its day in many places at once. Prometheus's daily eagle is the film's clock. Simultaneity is preferred to flashback or flash-forward; any true displacement needs a hinge visible within the story and must earn its place.
+- Production note: Dense multi-layer tableaux should be planned as layered plates for G004 and G007, not single-prompt shots.
+- Evidence/classification: User-directed original structure.
+- Affected downstream artifacts: G003 outline, scene index (ambient threads), and hinge map; G004 temporal grammar; G007 layered scene packages.
+- Status: Approved.
+
+### AD-036 — Hercules is messy, not moralized
+
+- Date: 2026-10-24.
+- Supersedes: None; refines AD-005 and AD-006.
+- Decision: Hercules does not follow a moral improvement arc. The ancient tradition gives him no clean redemption, and he keeps cycling through rage, error, expiation, and consequence (SRC_A01 2.6-2.7, SRC_A04). The film preserves that mess. He may change tactics, accept help, or choose to keep living without becoming wiser, gentler, or absolved. Earlier harms are not cancelled by later restraint and are not turned into lessons.
+- Effect on AD-005: Labors may still vary in method, but "force toward restraint" is no longer a governing arc or a required progression.
+- Effect on AD-006: Completion still ends compulsory service, not grief, and the closing choice to continue living stays available, but it is a choice, not proof of growth.
+- Boundary: AD-002, AD-003, and AD-007 are unchanged. Responsibility stays shared but not erased, the dead stay dead, and the first film ends after Cerberus.
+- Evidence/classification: User-directed original characterization consistent with the ancient record; the improvement arc previously assumed in AD-005 was original dramatic organization.
+- Affected downstream artifacts: G003 character arcs, beat sheet, and ending; G005 screenplay.
 - Status: Approved.
 
 ## Change procedure

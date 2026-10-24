@@ -20,7 +20,7 @@ The completed development package will contain:
 - Format: 105–115 minute feature.
 - Working title: *Hercules: The Weight*.
 - Dramatic spine: madness precedes the Labors, making them an act of atonement.
-- Tone: adult mythic tragedy targeting an R rating, with visible consequential violence, selective humor, and an evolving nightmare language for Hercules's trauma.
+- Tone: adult dark comedy with real consequence (AD-033), targeting an R rating, with visible consequential violence, selective humor, and an evolving nightmare language for Hercules's trauma.
 - Medium: handcrafted clay stop-motion language, even when produced with video-generation models.
 - Structure: a braided, selectively nonlinear presentation interweaves Hercules's journey with active supporting-character, creature, and divine threads. Hera, Eurystheus, Iolaus, threatened communities, Prometheus, Atlas, Cerberus, and the gods may initiate or reframe movements before Hercules enters them.
 - World: the Labors, divine politics, mortal institutions, Prometheus's punishment, and the Underworld belong to one causally connected mythic system rather than an anthology of disconnected quests.
