@@ -1,6 +1,6 @@
 # G009 — Full Generation-Ready Production Package
 
-Status: Pending
+Status: Superseded on 2026-11-10 by G015 (chapter production loop). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 

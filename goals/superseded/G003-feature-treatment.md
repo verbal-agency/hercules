@@ -1,6 +1,6 @@
 # G003 — Feature Treatment and Story Architecture
 
-Status: Ready
+Status: Superseded on 2026-11-10 by G012 (spine and tentpole pages) and G014 (feature story reel). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 

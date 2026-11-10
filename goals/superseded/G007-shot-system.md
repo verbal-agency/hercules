@@ -1,6 +1,6 @@
 # G007 — Scene/Shot Generation System
 
-Status: Pending
+Status: Superseded on 2026-11-10 by G013 (schemas frozen at v1 from real slice data). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 

@@ -1,6 +1,6 @@
 # G010 — Animatic and Production Handoff
 
-Status: Pending
+Status: Superseded on 2026-11-10 by G014 (feature story reel) and G015 (handoff). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 

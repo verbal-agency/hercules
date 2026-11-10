@@ -1,6 +1,6 @@
 # G005 — Screenplay Draft One
 
-Status: Pending
+Status: Superseded on 2026-11-10 by G012, G014, and G015 (pages are locked chapter by chapter). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 

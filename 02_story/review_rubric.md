@@ -8,7 +8,7 @@ Reviews inform the user's decisions and never approve anything. "Approved" still
 
 - **Can show:** where a cold reader is confused or bored, whether a scene turns, whether voices are distinct, whether a boundary is crossed, whether a beat can be staged in clay, whether the causal chain holds, and where a pitch loses a listener.
 - **Cannot show:** that the writing is good or that the film is enjoyable. Model readers are weak at real laughter and real emotion. They flatter, converge, pad findings to fill a template, and sometimes assert wrong facts about the myth. Treat output as instrument readings, require quotes, verify source claims, and expect noise.
-- **Real tests:** table reads with real people, and the G010 animatic. Collect human reactions on a few scenes early and compare them with the panel's. If they disagree often, discount the panel.
+- **Real tests:** people reading or hearing pages, and people watching the story reel (G014) and the chapter cuts (G013, G015). Collect human reactions on a few scenes early and compare them with the panel's. If they disagree often, discount the panel.
 
 ## Three levels, three different review sets
 
@@ -81,8 +81,8 @@ A reviewer call is not free. In the calibration runs each isolated reviewer cons
 |---|---|---|
 | 0 | Mechanical checks by script: IDs, scene card present, runtime sums, banned names or terms in opening movements, scene index fields | Every scene, every edit |
 | 1 | Two reviewers per scene: cold reader (functional and enjoyable) plus an auditor who combines boundary check and story tests | Every scene draft, batched by sequence where possible |
-| 2 | Full panel with all lenses | Key scenes (opening, Megara chapter, midpoint, climax), any scene Tier 1 flags, each sequence, each full draft |
-| 3 | Human table read, then the animatic | Per sequence once available; before approval |
+| 2 | Full panel with all lenses | Key scenes (opening, Megara chapter, midpoint, climax), any scene Tier 1 flags, each locked chapter, each reel version |
+| 3 | People: a read of chosen pages, viewers of the reel and of each chapter cut | Before any approval of pages, reel, or cut |
 
 Batch several scenes into one reviewer call at sequence level to spread the fixed overhead.
 
@@ -128,10 +128,11 @@ Every scene carries a card. A reviewer infers the card from the pages, and the w
 
 | When | What runs |
 |---|---|
-| Synopsis or beat sheet (G003) | Story-level lenses, Tier 2 |
-| Each sequence draft (G005) | Scene tests on every scene (Tier 1), Tier 2 on key scenes, sequence tests |
-| Full draft (G005) | Story and sequence tests; table read when available |
-| Animatic (G010) | Real timing, laughs, and drift |
+| Tentpole variants (G012) | Tier 1 and a pairwise read on each chosen scene; one human read or listen |
+| Each reel version (G014) | Story and sequence tests; viewers other than the writer |
+| Each locked chapter (G013, G015) | Scene tests on every scene (Tier 1), Tier 2 on key scenes, sequence tests |
+| Each chapter cut (G013, G015) | Viewers: real timing, laughs, and drift |
+| Synopsis only | Not a routine checkpoint; run only on request |
 
 ## Findings and severity
 
