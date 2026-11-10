@@ -18,6 +18,7 @@ PS-01, PS-02, PS-07.
 
 - The reel is a story test, not a design. Stills are rough and exploratory and approve no look.
 - Every beat is a scene someone could shoot; no summary cards standing in for undecided story.
+- Pages follow "Writing a scene" in `skills/develop-hercules-screenplay/SKILL.md`. Outside the tentpoles the silent pass and a rough dialogue pass are enough for the reel; the ledger and taste file are kept current throughout.
 - Change the story by re-cutting and rewriting, then watching again. Do not add rules to fix a reel problem.
 - Story time and presentation order are recorded separately for every scene (`ARCHITECTURE.md`).
 - Original inventions are labeled and traceable to the decision log (PS-01).
@@ -51,6 +52,7 @@ PS-01, PS-02, PS-07.
 - [ ] At least two reel versions exist, each with recorded reactions from viewers other than the writer, and each note is fixed, rejected with a reason, or routed.
 - [ ] The story-level review tests in `02_story/review_rubric.md` (causal chain, setup and payoff ledger, variety, energy curve, premise payoff) have been run on the final version and High findings are resolved or excepted by the user.
 - [ ] Every mythological beat is traceable to a source or a labeled invention.
+- [ ] The ledger check passes for the whole film: no payoff without a plant, no plant left unpaid unless knowingly dropped, no unexplained state change.
 - [ ] The lock list names the chapters approved for production and their order.
 - [ ] The forecast estimates shot count, asset states, and cost for the feature from measured rates.
 

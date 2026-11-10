@@ -27,7 +27,8 @@ PS-01, PS-02, PS-07.
 
 - **Spine** (one page): what Hercules wants, what he needs, who or what opposes him, what it costs, the central dramatic question, and the final image.
 - **Current canon** (one page): what is true now, compiled from the decision log's "Current canon at a glance", with the boundary list capped at about ten.
-- **Tentpole scenes**, each in two or three genuinely different variants, in Fountain, with a scene card:
+- **Voice sheets** for every principal who speaks in a tentpole scene, a **taste file** started from the user's reactions, and a **ledger** covering the chosen scenes (see "Writing a scene" in `skills/develop-hercules-screenplay/SKILL.md`).
+- **Tentpole scenes**, written by that method (sources, takes, silent pass, dialogue, cut, punch-up, heard, chosen), each in two or three genuinely different variants, in Fountain, with a scene card:
   1. the opening (the jar scene is one candidate);
   2. the Megara chapter's central scene;
   3. the ending, including the "thirteenth line" and the final image;
@@ -44,7 +45,11 @@ PS-01, PS-02, PS-07.
 
 - `02_story/spine.md`
 - `02_story/canon_now.md`
-- `02_story/pages/<tentpole>/<variant>.fountain` with scene cards
+- `02_story/voices/<character>.md`
+- `02_story/taste.md`
+- `02_story/ledger.yaml` and a check script
+- `02_story/pages/<tentpole>/takes.md` (the takes offered and which the user picked)
+- `02_story/pages/<tentpole>/<variant>.fountain` with a `.card.yaml` beside each
 - `02_story/pages/choices.md`
 - `02_story/chapters.md`
 - Review records under `02_story/reviews/`
@@ -53,15 +58,18 @@ PS-01, PS-02, PS-07.
 
 - [ ] The spine fits one page, states want, need, opposition, cost, dramatic question, and final image, and is approved by the user.
 - [ ] `canon_now.md` fits one page, agrees with the decision log, and lists no more than about ten boundaries.
-- [ ] Each of the five tentpoles has at least two variants that differ in approach, not only in wording, and a recorded user choice.
+- [ ] Each principal in the tentpole scenes has a voice sheet that passes a blind pick: a cold reader assigns unlabeled lines to the right character.
+- [ ] Each of the five tentpoles has recorded takes, at least two drafted variants that differ in approach, not only in wording, and a recorded user choice.
+- [ ] The taste file holds the user's own reactions to the variants, quoted, and the ledger check passes on the chosen scenes or lists what the rest of the film must pay off.
 - [ ] Each open story question from the superseded G003 is settled by a chosen page, or deferred with a reason and an owning goal: gods' consequence, the thirteenth line, placement of the family telling, degree of nonlinearity, documentary frame, Hermes narrating, Zeus in the Megara chapter, Iolaus's arc, the running legend.
 - [ ] Each chosen scene has had a Tier 1 review and a pairwise read against its alternative, with findings resolved or routed.
-- [ ] At least one person other than the writer has read or heard the chosen pages, and their reactions are recorded beside the panel's.
+- [ ] The chosen pages have been heard (temp voices or read aloud) by at least one person other than the writer, and their reactions are recorded beside the panel's.
 - [ ] The revised chapter list answers the shared findings in `02_story/reviews/story_synopsis_review_2026-11-05.md` (the flat run at chapters 10 to 12, the repeated voiding mechanism, the unplanted payoffs) or records why not.
 
 ## Expected verification evidence
 
-- Fountain parse of every page.
+- Fountain parse of every page, including scene-number IDs matching the cards.
+- Ledger check output and the blind-pick results.
 - Page counts for the spine and canon documents.
 - The choice record and the open-question log.
 - Review records with reviewer prompts and resolution status.

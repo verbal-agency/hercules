@@ -9,7 +9,7 @@ Human-readable dramatic sources: research, decision log, spine, current-canon pa
 Rules:
 
 - The screenplay remains readable without production metadata.
-- Scenes receive stable IDs such as `SC_030_HYDRA_MARSH`.
+- Scenes receive stable IDs such as `SC_030_HYDRA_MARSH`, carried in the Fountain scene heading as a scene number so pages can be parsed into a breakdown.
 - Nonlinear scenes separately record presentation order, story-time anchor, viewpoint or transition owner, and causal predecessors. Continuity follows story time; editorial adjacency is recorded separately and never silently substitutes for causality.
 - Source tradition, inference, and original invention are labeled in research documents.
 - Model prompts never become the authoritative description of story intent.
@@ -70,7 +70,7 @@ Canonical version references append `_VNN`, for example `CRE_HYDRA_V03`.
 
 ```text
 01_research/          sources, variants, decision log
-02_story/             spine, current canon, pages and variants, chapters, scene index, reviews
+02_story/             spine, current canon, voice sheets, taste file, ledger, pages and variants, chapters, scene index, reviews
 03_visual_bible/      style rules, grown chapter by chapter
 04_asset_library/     exploratory and approved canonical assets plus manifest
 05_generation/        capability sheet, probe, breakdowns, schemas, scene and shot packages, adapters
