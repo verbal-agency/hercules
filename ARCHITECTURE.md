@@ -4,7 +4,7 @@
 
 ### 1. Story layer
 
-Human-readable dramatic sources: research, decision log, treatment, character arcs, beat sheet, screenplay, and scene index.
+Human-readable dramatic sources: research, decision log, spine, current-canon page, chapter pages, story reel, and scene index.
 
 Rules:
 
@@ -13,6 +13,10 @@ Rules:
 - Nonlinear scenes separately record presentation order, story-time anchor, viewpoint or transition owner, and causal predecessors. Continuity follows story time; editorial adjacency is recorded separately and never silently substitutes for causality.
 - Source tradition, inference, and original invention are labeled in research documents.
 - Model prompts never become the authoritative description of story intent.
+
+### Breakdown: the bridge from story to assets
+
+When a chapter's pages are locked, a breakdown lists every entity the pages need and every state it appears in, by scene: characters, creatures, locations, props, costumes, and damage states. That entity-by-state matrix is the asset demand list. The visual canon is built to satisfy it and nothing else, so an asset no shot uses does not exist, and each new state is a visible cost the story has to justify.
 
 ### 2. Visual canon layer
 
@@ -42,6 +46,10 @@ Rules:
 - Model adapters compile global style, scene context, shot instructions, resolved assets, and supported settings into an executable generation request.
 - Raw generations, selects, and approved editorial outputs remain distinct.
 
+## Schema status
+
+The records under "Required metadata" are provisional sketches written before any generation. G011 records the fields its runs actually need, and G013 freezes scene, shot, asset, and run schemas at v1 from that evidence. Until then, treat field lists as a starting point, not a contract. After the freeze, the change-control rule below applies.
+
 ## ID conventions
 
 | Entity | Pattern | Example |
@@ -62,12 +70,12 @@ Canonical version references append `_VNN`, for example `CRE_HYDRA_V03`.
 
 ```text
 01_research/          sources, variants, decision log
-02_story/             treatment, beats, characters, screenplay, scene index
-03_visual_bible/      style rules and visual-development documents
+02_story/             spine, current canon, pages and variants, chapters, scene index, reviews
+03_visual_bible/      style rules, grown chapter by chapter
 04_asset_library/     exploratory and approved canonical assets plus manifest
-05_generation/        schemas, scene packages, shot packages, and model adapters
+05_generation/        capability sheet, probe, breakdowns, schemas, scene and shot packages, adapters
 06_generations/       raw outputs, selects, logs
-07_edit/              storyboards, animatic, continuity notes
+07_edit/              story reel versions, chapter cuts, continuity notes
 goals/                cycle state and goal specifications
 ```
 
@@ -145,6 +153,11 @@ shot_id: SH_0001
 scene_id: SC_001_STOLEN_BIRTH
 status: planned
 duration_seconds: 0
+shot_class: dialogue        # provisional: dialogue | action | insert | plate
+dialogue: []                # provisional: speaker, line, on_camera (true/false)
+audio: {}                   # provisional: voice source, sync method, effects notes
+start_frame: null           # provisional: approved Hero Frame or start frame
+end_frame: null             # provisional: only where the model supports it
 asset_inputs:
   - asset: CHR_HERCULES_V04
     role: identity
@@ -162,6 +175,7 @@ overrides: {}
 model_neutral_shot_prompt: ""
 shot_avoid: []
 model_runs: []
+takes: 0                    # provisional: attempts made before a select
 selected_output: null
 ```
 

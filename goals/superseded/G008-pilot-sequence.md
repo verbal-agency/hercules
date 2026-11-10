@@ -1,6 +1,6 @@
 # G008 — Representative Sequence Pilot
 
-Status: Pending
+Status: Superseded on 2026-11-10 by G011 (capability probe) and G013 (Eurystheus short). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 

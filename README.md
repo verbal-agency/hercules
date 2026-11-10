@@ -17,7 +17,7 @@ Provider-specific production mappings live in [`platforms/`](platforms/). They i
 When asked to **cycle**:
 
 1. Read the project, architecture, roadmap, backlog, and `goals/ACTIVE.md`.
-2. Activate the next ready goal if none is active and the user authorized a cycle.
+2. Activate the next ready goal if none is active and the user authorized a cycle. If more than one is ready, the user names which.
 3. Complete exactly that goal and verify each acceptance criterion.
 4. Route discoveries to a named future goal or the backlog.
 5. Mark it complete and prepare, but do not begin, the next eligible goal.

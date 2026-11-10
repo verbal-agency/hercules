@@ -9,11 +9,12 @@ Create a screenplay-ready adaptation of the traditional Hercules stories and a m
 The completed development package will contain:
 
 - traceable mythological research and explicit adaptation decisions;
-- a feature treatment, beat sheet, and screenplay;
+- a one-page story spine, a screenplay locked chapter by chapter, and a timed story reel of the whole film;
+- a measured capability sheet for the generation models, and a finished chapter-one short that proves the pipeline;
 - one authoritative visual bible and versioned asset library;
 - a scene and shot inventory connected through stable IDs;
 - generation-ready scene and shot packages with asset bindings and continuity constraints;
-- a validated pilot sequence and an animatic-ready production handoff.
+- a production handoff index for the whole film.
 
 ## Current creative hypothesis
 
@@ -26,7 +27,14 @@ The completed development package will contain:
 - World: the Labors, divine politics, mortal institutions, Prometheus's punishment, and the Underworld belong to one causally connected mythic system rather than an anthology of disconnected quests.
 - Scope boundary: the Deianeira/Nessus/death/apotheosis cycle is reserved for a later film or separately approved coda.
 
-G002 approved the original story boundaries; user-approved amendments AD-024 through AD-031 now govern tone, haunting, Olympus, Zeus, Hera's continuous campaign, world unity, the progressively revealed purposes of the Labors, and braided nonlinear presentation. Material changes must be recorded as superseding entries in `01_research/adaptation_decisions.md`.
+G002 approved the original story boundaries; user-approved amendments AD-024 through AD-036 now govern tone, haunting, Olympus, Zeus, Hera's continuous campaign, world unity, the progressively revealed purposes of the Labors, presentation, disclosure of the family catastrophe, and Hercules's arc. Once G012 produces `02_story/canon_now.md`, that page is the writer's statement of current canon and the decision log is its history. Material changes must be recorded as superseding entries in `01_research/adaptation_decisions.md`.
+
+## Development method
+
+- **Measure first.** What the models can do is established by generating, and the story is written to that evidence (`05_generation/capability_sheet.md`, from G011).
+- **Decide on the page.** Story questions are settled by choosing between written alternatives and by watching a reel, not by adding rules.
+- **One chapter at a time.** A locked chapter goes through every layer (pages, breakdown, assets, shots, cut) before the next is produced.
+- **Assets follow pages.** The asset library is whatever the breakdown of locked pages demands, and no more.
 
 ## Project-level acceptance scenarios
 
@@ -70,6 +78,7 @@ Given the approved pilot sequence, generated shots can be assembled into a coher
 - Embedding model prompts in screenplay dialogue or action instead of generation packages.
 - Treating generated exploratory images as approved canon automatically.
 - Producing the entire final film before a representative pilot validates the system.
+- Designing assets, schemas, or style rules ahead of a chapter that needs them.
 - Using untracked copyrighted imagery as production input.
 
 ## Definition of approved

@@ -1,6 +1,6 @@
 # Higgsfield Provider Profile
 
-Status: Candidate for G008 pilot validation
+Status: Candidate; probed in G011, confirmed or rejected in G013
 
 ## Role
 
@@ -86,7 +86,7 @@ Video generation may begin only after the shot’s Hero Frame or start frame pas
 
 ## Pilot comparisons
 
-G008 must compare:
+G011 runs the comparisons its budget allows (see that goal); G013 completes the list:
 
 - manual setup versus AI Director assistance;
 - one versus several reference Elements where supported;

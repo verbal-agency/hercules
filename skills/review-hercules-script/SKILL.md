@@ -9,12 +9,12 @@ Applies `02_story/review_rubric.md`. Read it first. Reviews inform the user's de
 
 ## Choose the level and the tier
 
-1. **Level** decides the lenses: story (synopsis, beat sheet, treatment), sequence, or scene. Do not use scene lenses on a synopsis or the reverse. See the rubric table.
+1. **Level** decides the lenses: story (reel, chapter list, synopsis), sequence, or scene. Prefer reviewing pages and reels. A synopsis-only panel is poor value (the first cost about 313,000 tokens for fourteen lines); run one only when the user asks. Do not use scene lenses on a synopsis or the reverse. See the rubric table.
 2. **Tier** decides the cost. A reviewer call costs about 60,000 tokens of fixed overhead.
    - Tier 0: scripts only (IDs, scene card present, runtime sums, banned terms in opening movements). Run on every edit.
    - Tier 1: two reviewers per scene (cold reader plus one auditor). Batch several scenes into one call at sequence level.
-   - Tier 2: full panel. Key scenes, any Tier 1 flag, each sequence, each full draft, the synopsis or beat sheet.
-   - Tier 3: human table read, then the animatic.
+   - Tier 2: full panel. Key scenes, any Tier 1 flag, each locked chapter, each reel version.
+   - Tier 3: people. A read or listen of chosen pages (G012), viewers of each reel version (G014), viewers of each chapter cut (G013, G015).
 
 ## Protocol
 
@@ -52,7 +52,7 @@ Applies `02_story/review_rubric.md`. Read it first. Reviews inform the user's de
 - **Tone reader.** The intended register is dark comedy with real consequence: humor from the powerful and the procedural; grief, victims, and the dead never the butt of a joke. Judge only tone.
 - **Boundary auditor.** Given the quoted boundary rules, report each violation or risk with a quote and rule number. Do not score how well the scene "expresses" any rule. Also list conflicts with common mythology (to be verified, step 6).
 - **Heavy-hand detector.** Does anything announce its own meaning? Is a motif explained instead of felt? Is a mechanism repeated until it is formula? Does the text tell the audience how to feel? Would a specific human detail do more than the stated theme? For each, say whether to cut the explanation, dramatize it, or leave it implicit.
-- **Pairwise reader** (use when revising). Given versions A and B of a scene, choose one, quote why, and say what the other does better.
+- **Pairwise reader** (use when revising, and whenever a goal offers the user variants: run it before the user chooses, as input and not as the choice). Given versions A and B of a scene, choose one, quote why, and say what the other does better.
 - **Stance variants** of the cold audience (rotate across scenes): a casual viewer who knows only the popular Hercules; a comedy fan; a myth reader; an animation fan; a skeptic.
 
 ## Story lenses
@@ -70,4 +70,4 @@ Applies `02_story/review_rubric.md`. Read it first. Reviews inform the user's de
 - Never present a panel verdict as approval or as proof the writing is good or enjoyable.
 - Reaction instruments are weakest for laughter and emotion. Collect human reactions on a few scenes and compare; discount the panel if they disagree.
 - Before relying on the panel for subtle problems, calibrate again with subtle planted defects and a good-versus-better pair.
-- Table reads with real people and the G010 animatic are the real tests.
+- People reading pages and watching the reel and the chapter cuts are the real tests.

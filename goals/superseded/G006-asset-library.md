@@ -1,6 +1,6 @@
 # G006 — Canonical Visual Asset Library
 
-Status: Pending
+Status: Superseded on 2026-11-10 by G013 and G015 (assets are built per locked chapter from the breakdown). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 

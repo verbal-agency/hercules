@@ -1,6 +1,6 @@
 # Story Synopsis (draft for review)
 
-Status: Draft. Not approved; not a G003 deliverable. Written from the working direction in `goals/G003-feature-treatment.md` ("Open story questions") and AD-032 to AD-036. Placeholders marked [open] are unresolved on purpose.
+Status: Draft. Not approved; input to G012. Written from the working direction in `goals/superseded/G003-feature-treatment.md` ("Open story questions") and AD-032 to AD-036. Placeholders marked [open] are unresolved on purpose.
 
 ## Premise
 

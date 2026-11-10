@@ -1,6 +1,6 @@
 # G004 — Claymation Visual Language
 
-Status: Pending
+Status: Superseded on 2026-11-10 by G011 (look test), G013 (style rules for chapter one), and G015 (per-chapter extension). Never activated. Kept as history and as a source of carried constraints; see `ROADMAP.md` ("Roadmap revision").
 
 ## Objective
 
